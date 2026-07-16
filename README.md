@@ -1,4 +1,4 @@
-# Genz_mental_health_predicto
+# Genz_mental_health_predictor
 
 A Machine Learning web application that predicts the **Mental Health Score** of Gen-Z users based on their social media usage patterns.
 
