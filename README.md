@@ -123,7 +123,7 @@ https://www.linkedin.com/in/shumaila-jawed-87a55a33a?utm_source=share_via&utm_co
 fb:
 https://www.facebook.com/share/1E5rpVsRug/
 
-GitHub:
+Live Demo: https://genzmentalhealthpredictoripynb-uxmvyuz.streamlit.app/
 
 ---
 
