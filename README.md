@@ -119,11 +119,13 @@ This project is deployed using **Streamlit Community Cloud**.
 
 Machine Learning | AI | Data Science
 
-GitHub:
-(Add your GitHub Profile Link)
-
 LinkedIn:
-(Add your LinkedIn Profile Link)
+https://www.linkedin.com/in/shumaila-jawed-87a55a33a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+fb:
+https://www.facebook.com/share/1E5rpVsRug/
+
+GitHub:
 
 ---
 
