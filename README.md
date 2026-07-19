@@ -127,16 +127,6 @@ Live Demo: https://genzmentalhealthpredictoripynb-uxmvyuz.streamlit.app/
 
 ---
 
-## ⭐ Future Improvements
-
-- Improve prediction accuracy
-- Add more ML models for comparison
-- Better UI/UX
-- Feature importance visualization
-- Support additional datasets
-
----
-
 ## 📄 License
 
 This project is for educational and portfolio purposes.
